@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Global Trading Institute | Institutional Academic Standard",
+  "description": "An elite academic institution for global financial literacy and institutional market mastery, spanning from first principles to advanced algorithmic strategy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
